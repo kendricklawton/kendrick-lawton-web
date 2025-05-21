@@ -13,7 +13,7 @@ export default function Home() {
     <div className={styles.page}>
       <header className={styles.header}>
         <h1>Kendrick Lawton</h1>
-        <Link href="mailto:kendrick@kendricklawton.com">Contact</Link>
+        <Link href="mailto:khlawton@asu.edu">Contact</Link>
       </header>
       <div className={styles.main}>
         <p>AI and automation are reshaping our world, creating new possibilities for innovation and efficiency. By combining intelligent systems with thoughtful automation, we can solve complex challenges and unlock unprecedented opportunities for growth and transformation. I&apos;m currently working on <Link href="https://tradebooklm.com">TradebookLM</Link>, an AI-powered trading journal that helps traders organize their trades and gain deeper insights through advanced AI analysis.</p>
