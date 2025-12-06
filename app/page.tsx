@@ -45,7 +45,7 @@ const PROJECT_DATA = [
     title: "Language Model Books",
     sourceLink: "https://github.com/kendricklawton/language-model-books",
     description:
-      "A unified monorepo architecture powering multiple AI-driven platforms. Engineered for scalability and code reuse, it drives distinct financial intelligence tools from a single, cohesive foundation.",
+      "A unified monorepo architecture powering multiple AI-driven platforms. Engineered for scalability and code reuse, it drives distinct AI intelligence tools from a single, cohesive foundation.",
     stack: [
       "GCP",
       "Go",
