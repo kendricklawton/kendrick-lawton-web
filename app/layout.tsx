@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kendrick Lawton",
+  title: "Kendrick Lawton | Software Engineer",
   description:
     "I am a software engineer driven by a love for the craft. There is a unique satisfaction in solving complex problems and turning abstract ideas into reality through code. For me, programming is more than just a career—it is a continuous journey of learning, creating, and refining efficient solutions.",
 };
