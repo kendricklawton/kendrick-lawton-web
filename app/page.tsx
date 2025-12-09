@@ -58,8 +58,9 @@ const PROJECT_DATA = [
       "Workos",
     ],
     liveLinks: [
-      { label: "wealthbooklm.com", href: "https://wealthbooklm.com" },
       { label: "betbooklm.com", href: "https://betbooklm.com" },
+      { label: "tradebooklm.com", href: "https://tradebooklm.com" },
+      { label: "wealthbooklm.com", href: "https://wealthbooklm.com" },
     ],
   },
 ];
